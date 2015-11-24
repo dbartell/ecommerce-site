@@ -1,8 +1,12 @@
-# ecommerce-site
+# An Ecommerce Site
+
+###Purpose
+-------------------------------------------
+I am creating a ecommerce site for a friend.
+I am using Gulp, NgCart, Bootstrap, and Less to solidify new technologies.
 
 |Technologies|Used|
 |-------|-------|
-
 |Design|HTML5, CSS3, Less, JS, JQuery, Bootstrap|
 |Compiler|Gulp|
 |Routing|UI.Router|
