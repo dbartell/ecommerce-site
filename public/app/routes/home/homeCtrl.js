@@ -1,5 +1,3 @@
-angular.module('ecommerceApp')
-
-.controller('homeCtrl', function () {
+angular.module('ecommerceApp').controller('homeCtrl', function () {
 
 });

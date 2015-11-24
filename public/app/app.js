@@ -10,4 +10,14 @@ angular.module("ecommerceApp", ["ui.router", "ngCart"])
     templateUrl: 'app/routes/home/hometmpl.html',
     controller: 'homeCtrl',
   })
+  .state('shop', {
+    url: '/shop',
+    templateUrl: 'app/routes/shop/shoptmpl.html',
+    controller: 'shopCtrl',
+  })
+  .state('blog', {
+    url: '/blog',
+    templateUrl: 'app/routes/blog/blogtmpl.html',
+    controller: 'blogCtrl',
+  })
 });
