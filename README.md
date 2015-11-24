@@ -5,7 +5,7 @@
 I am creating a ecommerce site for a friend.
 I am using Gulp, NgCart, Bootstrap, and Less to solidify new technologies.
 
-|Technologies|Used|
+|Category|Technology|
 |-------|-------|
 |Design|HTML5, CSS3, Less, JS, JQuery, Bootstrap|
 |Compiler|Gulp|
