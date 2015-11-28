@@ -20,4 +20,9 @@ angular.module("ecommerceApp", ["ui.router", "ngCart"])
     templateUrl: 'app/routes/blog/blogtmpl.html',
     controller: 'blogCtrl',
   })
+  .state('cart', {
+    url: '/cart',
+    templateUrl: 'app/routes/cart/carttmpl.html',
+    controller: 'cartCtrl',
+  })
 });
